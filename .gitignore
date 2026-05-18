@@ -1,0 +1,6 @@
+Airline_Data_Processing_Projects/
+*.zip
+*.pdf
+*.txt
+venv/
+.env
